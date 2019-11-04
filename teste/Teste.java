@@ -5,5 +5,8 @@ public class Teste {
 		int b = 5;
 		b *=10;
 		System.out.println(b);
+		System.out.println(b);
+		System.out.println(b);
+		System.out.println(b);
 	}
 }
